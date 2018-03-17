@@ -27,6 +27,10 @@
 *.lib
 
 # Executables
-*.exe
 *.out
 *.app
+.vs/filtre/v14/.suo
+Debug/
+ipch/
+filtre.VC.db
+filtre/filtre.aps
